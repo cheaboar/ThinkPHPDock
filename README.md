@@ -12,7 +12,7 @@ docker-compose up -d nginx mysql
 ```
 使用docker-compose up 才可启动端口映射，docker-compose run不进行端口映射。
 
-####包含有以下内容
+#### 包含有以下内容
 - PHP5.6
 - Mysql
 - Ubuntu
